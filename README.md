@@ -44,12 +44,11 @@ Then run:
 
 Below are some example renderings with different ranges:
 
-<img src="./images/mandelbrot_minx_-2.000000_maxy_1.500000.png" alt="Mandelbrot" style="width: 100px; height: auto;">
-
-<img src="./images/mandelbrot_minx_-0.750000_maxy_0.100000.png" alt="Mandelbrot" style="width: 100px; height: auto;">
-
-<img src="./images/mandelbrot_minx_-0.748770_maxy_0.065103.png" alt="Mandelbrot" style="width: 100px; height: auto;">
-
-<img src="./images/mandelbrot_minx_-1.250000_maxy_0.150000.png" alt="Mandelbrot" style="width: 100px; height: auto;">
+<div style="display: grid; grid-template-columns: repeat(2, auto); gap: 10px;">
+  <img src="./images/mandelbrot_minx_-2.000000_maxy_1.500000.png" alt="Mandelbrot" style="width: 250px; height: auto;">
+  <img src="./images/mandelbrot_minx_-0.750000_maxy_0.100000.png" alt="Mandelbrot" style="width: 250px; height: auto;">
+  <img src="./images/mandelbrot_minx_-0.748770_maxy_0.065103.png" alt="Mandelbrot" style="width: 250px; height: auto;">
+  <img src="./images/mandelbrot_minx_-1.250000_maxy_0.150000.png" alt="Mandelbrot" style="width: 250px; height: auto;">
+</div>
 
 You can specify custom ranges to generate different images.
