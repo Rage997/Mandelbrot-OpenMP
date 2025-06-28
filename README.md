@@ -44,9 +44,12 @@ Then run:
 
 Below are some example renderings with different ranges:
 
-* ![](./images/mandelbrot_minx_-2.000000_maxy_1.500000.png)
-* ![](./images/mandelbrot_minx_-0.750000_maxy_0.100000.png)
-* ![](./images/mandelbrot_minx_-0.748770_maxy_0.065103.png)
-* ![](./images/mandelbrot_minx_-1.250000_maxy_0.150000.png)
+<img src="./images/mandelbrot_minx_-2.000000_maxy_1.500000.png" alt="Mandelbrot" style="max-width: 400px;">
+
+<img src="./images/mandelbrot_minx_-0.750000_maxy_0.100000.png" alt="Mandelbrot" style="max-width: 400px;">
+
+<img src="./images/mandelbrot_minx_-0.748770_maxy_0.065103.png" alt="Mandelbrot" style="max-width: 400px;">
+
+<img src="./images/mandelbrot_minx_-1.250000_maxy_0.150000.png" alt="Mandelbrot" style="max-width: 400px;">
 
 You can specify custom ranges to generate different images.
